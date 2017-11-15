@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="header">2048</string>
+
+    <string name="high_score">最高分</string>
+    <string name="score">分数</string>
+    <string name="instructions">滑动屏幕. 如：2 + 2 = 4. 达到 2048.</string>
+    <string name="you_win">今晚吃鸡啊!</string>
+    <string name="game_over">Game Over! \n 没得鸡吃哦！</string>
+    <string name="go_on">继续</string>
+    <string name="for_now">For now...</string>
+    <string name="endless">"Endless" Mode</string>
+</resources>
